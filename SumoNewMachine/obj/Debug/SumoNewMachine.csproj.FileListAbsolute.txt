@@ -1,0 +1,68 @@
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe.config
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.pdb
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csprojAssemblyReference.cache
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.Properties.Resources.resources
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.GenerateResource.cache
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CoreCompileInputs.cache
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.exe
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.pdb
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\UpDownControl.dll
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CopyComplete
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\MyData\Sumo\Sumo New Machine\C_Sharp\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.frmMain.resources
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\bin\Debug\SumoNewMachine.exe.config
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\bin\Debug\SumoNewMachine.exe
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\bin\Debug\SumoNewMachine.pdb
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\bin\Debug\UpDownControl.dll
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.csprojResolveAssemblyReference.cache
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.frmMain.resources
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.Properties.Resources.resources
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.GenerateResource.Cache
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CoreCompileInputs.cache
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.exe
+D:\PROJECTS\sumo\SumoRestecAutomation\SumoNewMachine\obj\Debug\SumoNewMachine.pdb
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe.config
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.pdb
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\UpDownControl.dll
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csprojResolveAssemblyReference.cache
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.frmMain.resources
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.Properties.Resources.resources
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.GenerateResource.Cache
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CoreCompileInputs.cache
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.exe
+D:\PROJECTS\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.pdb
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe.config
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.pdb
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\UpDownControl.dll
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csprojAssemblyReference.cache
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.frmMain.resources
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.Properties.Resources.resources
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.GenerateResource.cache
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CopyComplete
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.exe
+C:\MyData\Projects\sumo\SumoRestecAutomation\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.pdb
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe.config
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.exe
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\SumoNewMachine.pdb
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\bin\Debug\UpDownControl.dll
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csprojAssemblyReference.cache
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.frmMain.resources
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.Properties.Resources.resources
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.GenerateResource.cache
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.csproj.CopyComplete
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.exe
+C:\MyData\Projects\P115481 Endmill inspection\HMI\SumoNewMachine\SumoNewMachine\obj\Debug\SumoNewMachine.pdb

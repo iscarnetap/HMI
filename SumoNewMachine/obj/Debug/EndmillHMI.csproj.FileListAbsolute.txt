@@ -1,0 +1,52 @@
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.Properties.Resources.resources
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.GenerateResource.cache
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.exe.config
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.exe
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.pdb
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\bin\Debug\UpDownControl.dll
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.CopyComplete
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.exe
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.pdb
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.frmMain.resources
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.exe.config
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.exe
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.pdb
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\bin\Debug\UpDownControl.dll
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.AssemblyReference.cache
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.frmMain.resources
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.Properties.Resources.resources
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.GenerateResource.cache
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.CopyComplete
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.exe
+C:\MyData\Projects\Project 115481 Endmill Inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.pdb
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.AssemblyReference.cache
+C:\MyData\Projects\P115481 Endmill inspection\HMI\Endmill\SumoNewMachine\bin\Debug\TwinCAT.Ads.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.exe.config
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.exe
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\EndmillHMI.pdb
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\ControlsArrayControl.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\TwinCAT.Ads.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\UpDownControl.dll
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.AssemblyReference.cache
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.frmMain.resources
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.Properties.Resources.resources
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.GenerateResource.cache
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.CoreCompileInputs.cache
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.csproj.Up2Date
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.exe
+C:\Project\HMI\Endmill\SumoNewMachine\obj\Debug\EndmillHMI.pdb
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Newtonsoft.Json.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Newtonsoft.Json.xml
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Project\HMI\Endmill\SumoNewMachine\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
