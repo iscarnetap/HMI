@@ -30,10 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.panel1 = new System.Windows.Forms.Panel();
             this.txtCycleTimeRun = new System.Windows.Forms.TextBox();
             this.btnClearStations = new System.Windows.Forms.Button();
@@ -3570,8 +3570,8 @@
             // 
             // dataGridViewReject
             // 
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.dataGridViewReject.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
+            this.dataGridViewReject.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridViewReject.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewReject.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
@@ -4297,18 +4297,18 @@
             // CharWeldon
             // 
             this.CharWeldon.BackSecondaryColor = System.Drawing.Color.White;
-            chartArea8.Name = "ChartArea1";
-            this.CharWeldon.ChartAreas.Add(chartArea8);
-            legend8.Name = "Legend1";
-            this.CharWeldon.Legends.Add(legend8);
+            chartArea1.Name = "ChartArea1";
+            this.CharWeldon.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.CharWeldon.Legends.Add(legend1);
             this.CharWeldon.Location = new System.Drawing.Point(19, 10);
             this.CharWeldon.Margin = new System.Windows.Forms.Padding(1);
             this.CharWeldon.Name = "CharWeldon";
-            series8.ChartArea = "ChartArea1";
-            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series8.Legend = "Legend1";
-            series8.Name = "Series1";
-            this.CharWeldon.Series.Add(series8);
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series1.Legend = "Legend1";
+            series1.Name = "Series1";
+            this.CharWeldon.Series.Add(series1);
             this.CharWeldon.Size = new System.Drawing.Size(689, 518);
             this.CharWeldon.TabIndex = 0;
             this.CharWeldon.Text = "chart1";
@@ -4814,6 +4814,7 @@
             // 
             // btnPwrOffSt
             // 
+            this.btnPwrOffSt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.btnPwrOffSt.Image = ((System.Drawing.Image)(resources.GetObject("btnPwrOffSt.Image")));
             this.btnPwrOffSt.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnPwrOffSt.Location = new System.Drawing.Point(494, 404);
@@ -4823,7 +4824,7 @@
             this.btnPwrOffSt.TabIndex = 254;
             this.btnPwrOffSt.Text = "POWER   OFF";
             this.btnPwrOffSt.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnPwrOffSt.UseVisualStyleBackColor = true;
+            this.btnPwrOffSt.UseVisualStyleBackColor = false;
             this.btnPwrOffSt.Click += new System.EventHandler(this.btnPwrOnSt_Click);
             // 
             // panel13
@@ -5121,6 +5122,7 @@
             // 
             // btnPwrOnSt
             // 
+            this.btnPwrOnSt.BackColor = System.Drawing.Color.Lime;
             this.btnPwrOnSt.Image = ((System.Drawing.Image)(resources.GetObject("btnPwrOnSt.Image")));
             this.btnPwrOnSt.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnPwrOnSt.Location = new System.Drawing.Point(341, 404);
@@ -5130,7 +5132,7 @@
             this.btnPwrOnSt.TabIndex = 253;
             this.btnPwrOnSt.Text = "POWER    ON";
             this.btnPwrOnSt.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnPwrOnSt.UseVisualStyleBackColor = true;
+            this.btnPwrOnSt.UseVisualStyleBackColor = false;
             this.btnPwrOnSt.Click += new System.EventHandler(this.btnPwrOnSt_Click);
             // 
             // btnCurrPosCams
