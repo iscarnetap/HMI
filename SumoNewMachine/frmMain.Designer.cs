@@ -1215,6 +1215,7 @@
             this.upDwnColor.UpDownStyle = System.Windows.Forms.FlatStyle.Flat;
             this.upDwnColor.UpDownValue = 2F;
             this.upDwnColor.UpDownWidht = 88;
+            this.upDwnColor.Visible = false;
             // 
             // txtDtolerance
             // 
